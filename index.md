@@ -1,4 +1,6 @@
 # Guidong Luo
+>This is my user page 
+
  I am a *Math-CS* Sophomore. I am familiar with **Java, C, JavaScript, HTML, CSS and React.js**. 
 
 The first line of codes I typed out is:
@@ -17,6 +19,8 @@ If you want to know more about me, this is a link to my [personal website](https
 
 
 Please check out [README](README.md) for more info. 
+
+
 
 
 [Return to the top](#guidong-luo)
